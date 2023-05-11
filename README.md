@@ -1,1 +1,3 @@
 # my-awesome-project
+
+This awesome project is an experiment to understant git notions ...
